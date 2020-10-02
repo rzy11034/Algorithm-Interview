@@ -1,0 +1,23 @@
+﻿program Algorithm_Interview;
+
+{$mode objfpc}{$H+}
+
+uses
+ {$IFDEF UNIX}
+  cthreads,
+ {$ENDIF}
+  Classes, SysUtils, AI.Main, AI.Utils, Chapter02.TimeComplexityBasic.Main,
+  Chapter02.TimeComplexityBasic.Main2,
+Chapter02.CommonCodeForTimeComplexity.Main;
+
+begin
+  try
+    Run;
+    DrawLineProgramEnd;
+    Writeln(END_OF_PROGRAM_EN);
+    Readln;
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.
