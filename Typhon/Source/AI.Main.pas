@@ -13,7 +13,7 @@ procedure Run;
 implementation
 
 uses
-  Chapter02.CommonCodeForTimeComplexity.Main;
+  Chapter02.TimeComplexityExperiments.Main;
 
 procedure Run;
 begin

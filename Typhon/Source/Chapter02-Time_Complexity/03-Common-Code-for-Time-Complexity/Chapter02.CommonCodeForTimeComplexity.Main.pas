@@ -53,12 +53,9 @@ var
 begin
   n := Length(s);
 
-  i := 0;
-  while i < n div 2 do
+  for i := 0 to n div 2 do
   begin
     __swap__(s[i + 1], s[n - i]);
-
-    i += 1;
   end;
 end;
 
@@ -117,17 +114,118 @@ end;
 
 // O(logn) Time Complexity
 function IntToUString(num: integer): UString;
+var
+  s, sign: UString;
+  temp: UChar;
+  res: UString;
 begin
+  s := '';
+  sign := '+';
 
+  if num < 0 then
+  begin
+    num := -num;
+    sign := '-';
+  end;
+
+  while num <> 0 do
+  begin
+    temp := Chr(Ord('0') + num mod 10);
+    num := num div 10;
+    s += temp;
+  end;
+
+  if s = '' then
+    Exit('0');
+
+  Reverse(s);
+  if sign = '+' then
+    res := s
+  else
+    res := sign + s;
+
+  Result := res;
+end;
+
+// O(nlogn)
+procedure Hello(n: integer);
+var
+  sz, i: integer;
+begin
+  sz := 1;
+  while sz < n do
+  begin
+    for i := 1 to n - 1 do
+      WriteLn('Hello, Algorithm!');
+
+    sz += sz;
+  end;
+end;
+
+// O(sqrt(n)) Time Complexity
+function IsPrime(num: integer): boolean;
+var
+  x: integer;
+begin
+  x := 2;
+  while Sqr(x) <= num do
+  begin
+    if num mod x = 0 then
+      Exit(false);
+
+    x += 1;
+  end;
+
+  Result := true;
+end;
+
+function IsPrime2(num: integer): boolean;
+var
+  x: integer;
+begin
+  if num <= 1 then Exit(false);
+  if num = 2 then Exit(true);
+  if num mod 2 = 0 then Exit(false);
+
+  x := 3;
+  while Sqr(x) <= num do
+  begin
+    if num mod x = 0 then
+      Exit(false);
+
+    x += 2;
+  end;
+
+  Result := true;
 end;
 
 procedure Main;
 var
-  s: UString;
+  s, i, l, r: integer;
+  b, e: double;
 begin
-  s := '123456789';
-  Reverse(s);
-  WriteLn(s);
+  l := 1000000;
+  r := 5000000;
+
+  s := 0;
+  b := Now;
+  for i := l to r do
+  begin
+    if IsPrime(i) then
+      s += 1;
+  end;
+  e := Now;
+  WriteLn('Count: ', s, ' time: ', e - b);
+
+  s := 0;
+  b := Now;
+  for i := l to r do
+  begin
+    if IsPrime2(i) then
+      s += 1;
+  end;
+  e := Now;
+  WriteLn('Count: ', s, ' time: ', e - b);
 end;
 
 end.

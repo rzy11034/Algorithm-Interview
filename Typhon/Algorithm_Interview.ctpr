@@ -22,7 +22,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <Parsing>
@@ -53,7 +53,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -104,6 +104,10 @@
         <Filename Value="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02.CommonCodeForTimeComplexity.Main.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -111,7 +115,7 @@
     <PathDelim Value="\"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity"/>
+      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
   </CompilerOptions>

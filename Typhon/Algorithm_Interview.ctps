@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Debug"/>
+    <Units>
+      <Unit>
+        <Filename Value="Algorithm_Interview.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="14" Y="17"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\AI.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="5" Y="21"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="8" Y="187"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02.TimeComplexityBasic.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="14" Y="38"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02.TimeComplexityBasic.Main2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="14" Y="24"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02.CommonCodeForTimeComplexity.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="216"/>
+        <CursorPos X="14" Y="13"/>
+        <UsageCount Value="27"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="42" Y="37"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="945"/>
+        <CursorPos X="10" Y="960"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\math.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="409"/>
+        <CursorPos X="10" Y="426"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\datih.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="10" Y="130"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\dati.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="260"/>
+        <CursorPos X="3" Y="270"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\objpas.pp"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="105"/>
+        <CursorPos X="8" Y="35"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\generic.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2361"/>
+        <CursorPos X="4" Y="2372"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="13" Y="151"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="20" Column="79" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="21" Column="42" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="73" Column="8" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="74" Column="43" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="93" Column="17" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="27" Column="76" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="30" Column="66" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="109" Column="29" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="33" Column="49" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="166" Column="11" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="186" Column="7" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Utils.pas"/>
+        <Caret Line="188" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\AI.Main.pas"/>
+        <Caret Line="16" Column="43"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <Caret Line="20" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <Caret Line="22" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <Caret Line="33" Column="7" TopLine="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="arr"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
