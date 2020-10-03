@@ -6,10 +6,19 @@ uses
  {$IFDEF UNIX}
   cthreads,
  {$ENDIF}
-  Classes, SysUtils, AI.Main, AI.Utils, Chapter02.TimeComplexityBasic.Main,
-  Chapter02.TimeComplexityBasic.Main2,
-Chapter02.CommonCodeForTimeComplexity.Main,
-Chapter02.TimeComplexityExperiments.Main;
+  Classes,
+  SysUtils,
+  AI.Main,
+  AI.Utils,
+  Chapter02._02_TimeComplexityBasic.Main,
+  Chapter02._02_TimeComplexityBasic.Main2,
+  Chapter02._03_CommonCodeForTimeComplexity.Main,
+  Chapter02._04_TimeComplexityExperiments.Main,
+  Chapter02._04_TimeComplexityExperiments.Main2,
+  Chapter02._04_TimeComplexityExperiments.Main3,
+  Chapter02._04_TimeComplexityExperiments.Main4,
+Chapter02._05_RecursionTimeComplexity.Main,
+Chapter02._05_RecursionTimeComplexity.Main2;
 
 begin
   try

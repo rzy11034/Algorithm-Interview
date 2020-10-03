@@ -1,20 +1,17 @@
 ﻿unit AI.Utils;
 
-{$mode objfpc}{$H+}
-
 interface
 
 uses
-  Classes,
-  SysUtils,
-  Math;
+  System.SysUtils,
+  System.Math;
 
 type
-  UChar = UnicodeChar;
-  UString = UnicodeString;
-  TStringBuilder = TUnicodeStringBuilder;
+  UChar = Char;
+  UString = String;
+  //TStringBuilder = TUnicodeStringBuilder;
 
-  TArray_int = array of integer;
+  TArray_int = TArray<integer>;
 
   TUtils = class(TObject)
   public
@@ -136,7 +133,7 @@ class procedure TAlgorithmTester.MergeSort(arr: TArray_int);
 
   procedure __merge__(l, mid, r: integer);
   var
-    aux: array of integer;
+    aux: TArray_int;
     i, leftIndex, rightIndex: integer;
   begin
     aux := __arrayCopyOfRange__(l, r);
@@ -151,22 +148,22 @@ class procedure TAlgorithmTester.MergeSort(arr: TArray_int);
       if leftIndex > mid then // 如果左半部分元素已经全部处理完毕
       begin
         arr[i] := aux[rightIndex - l];
-        rightIndex += 1;
+        rightIndex := rightIndex + 1;
       end
       else if rightIndex > r then // 如果右半部分元素已经全部处理完毕
       begin
         arr[i] := aux[leftIndex - l];
-        leftIndex += 1;
+        leftIndex := leftIndex + 1;
       end
       else if aux[leftIndex - l] < aux[rightIndex - l] then // 左半部分所指元素 < 右半部分所指元素
       begin
         arr[i] := aux[leftIndex - l];
-        leftIndex += 1;
+        leftIndex := leftIndex + 1;
       end
       else // 左半部分所指元素 >= 右半部分所指元素
       begin
         arr[i] := aux[rightIndex - l];
-        rightIndex += 1;
+        rightIndex := rightIndex + 1;
       end;
     end;
   end;
@@ -183,10 +180,10 @@ begin
       // 对 arr[i...i+sz-1] 和 arr[i+sz...i+2*sz-1] 进行归并
       __merge__(i, i + sz - 1, Min(i + sz + sz - 1, Length(arr) - 1));
 
-      i += sz * 2;
+      i := i + sz * 2;
     end;
 
-    sz *= 2;
+    sz := sz * 2;
   end;
 end;
 

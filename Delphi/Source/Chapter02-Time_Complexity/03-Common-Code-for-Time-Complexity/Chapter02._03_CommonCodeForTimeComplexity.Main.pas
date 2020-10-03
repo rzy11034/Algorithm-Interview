@@ -1,12 +1,10 @@
-﻿unit Chapter02.CommonCodeForTimeComplexity.Main;
-
-{$mode objfpc}{$H+}
+﻿unit Chapter02._03_CommonCodeForTimeComplexity.Main;
 
 interface
 
 uses
-  Classes,
-  SysUtils;
+  System.Classes,
+  System.SysUtils;
 
 procedure Main;
 
@@ -33,7 +31,7 @@ begin
   Assert(n >= 0);
   res := 0;
   for i := 0 to n do
-    res += i;
+    res := res + i;
   Result := res;
 end;
 
@@ -132,7 +130,7 @@ begin
   begin
     temp := Chr(Ord('0') + num mod 10);
     num := num div 10;
-    s += temp;
+    s := s + temp;
   end;
 
   if s = '' then
@@ -158,7 +156,7 @@ begin
     for i := 1 to n - 1 do
       WriteLn('Hello, Algorithm!');
 
-    sz += sz;
+    sz := sz + sz;
   end;
 end;
 
@@ -173,7 +171,7 @@ begin
     if num mod x = 0 then
       Exit(false);
 
-    x += 1;
+    x := x + 1;
   end;
 
   Result := true;
@@ -183,9 +181,12 @@ function IsPrime2(num: integer): boolean;
 var
   x: integer;
 begin
-  if num <= 1 then Exit(false);
-  if num = 2 then Exit(true);
-  if num mod 2 = 0 then Exit(false);
+  if num <= 1 then
+    Exit(false);
+  if num = 2 then
+    Exit(true);
+  if num mod 2 = 0 then
+    Exit(false);
 
   x := 3;
   while Sqr(x) <= num do
@@ -193,7 +194,7 @@ begin
     if num mod x = 0 then
       Exit(false);
 
-    x += 2;
+    x := x + 2;
   end;
 
   Result := true;
@@ -212,7 +213,7 @@ begin
   for i := l to r do
   begin
     if IsPrime(i) then
-      s += 1;
+      s := s + 1;
   end;
   e := Now;
   WriteLn('Count: ', s, ' time: ', e - b);
@@ -222,7 +223,7 @@ begin
   for i := l to r do
   begin
     if IsPrime2(i) then
-      s += 1;
+      s := s + 1;
   end;
   e := Now;
   WriteLn('Count: ', s, ' time: ', e - b);

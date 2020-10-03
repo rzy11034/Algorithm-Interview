@@ -22,7 +22,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <Parsing>
@@ -53,7 +53,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -93,19 +93,39 @@
         <IsPartOfProject Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02.TimeComplexityBasic.Main.pas"/>
+        <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_TimeComplexityBasic.Main.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02.TimeComplexityBasic.Main2.pas"/>
+        <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_TimeComplexityBasic.Main2.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02.CommonCodeForTimeComplexity.Main.pas"/>
+        <Filename Value="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02._03_CommonCodeForTimeComplexity.Main.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02.TimeComplexityExperiments.Main.pas"/>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main2.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main3.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main4.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_RecursionTimeComplexity.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_RecursionTimeComplexity.Main2.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
     </Units>
@@ -115,7 +135,7 @@
     <PathDelim Value="\"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments"/>
+      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
   </CompilerOptions>

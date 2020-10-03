@@ -1,4 +1,4 @@
-unit Chapter02.TimeComplexityExperiments.Main;
+﻿unit Chapter02._04_TimeComplexityExperiments.Main;
 
 {$mode objfpc}{$H+}
 
@@ -18,7 +18,7 @@ procedure Main;
 var
   n: integer;
   arr: TArray_int;
-  MaxValue: integer;
+  i: integer;
   startTime, endTime: cardinal;
 begin
   // 数据规模倍乘测试findMax
@@ -30,11 +30,11 @@ begin
 
     arr := TUtils.GenerateRandomArray(n, 0, 100000000);
 
-    startTime := GetTickCount64;
-    MaxValue := TAlgorithmTester.FindMax(arr);
-    endTime := GetTickCount64;
+    startTime := TThread.GetTickCount64;
+    TAlgorithmTester.FindMax(arr);
+    endTime := TThread.GetTickCount64;
 
-    WriteLn('data size 2^', i, ' = ', n, );
+    WriteLn('data size 2^', i, ' = ', n, #$9, 'Time cost: ', (endTime - startTime), ' ms');
   end;
 end;
 
