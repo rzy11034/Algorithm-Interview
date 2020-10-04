@@ -22,7 +22,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <Parsing>
@@ -53,7 +53,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -78,6 +78,11 @@
     <RunParams>
       <FormatVersion Value="2"/>
     </RunParams>
+    <RequiredPackages>
+      <Item>
+        <PackageName Value="DeepStar_Lib"/>
+      </Item>
+    </RequiredPackages>
     <Units>
       <Unit>
         <Filename Value="Algorithm_Interview.ppr"/>
@@ -128,6 +133,14 @@
         <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_RecursionTimeComplexity.Main2.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\06-Amortized-Time\Chapter02._06_AmortizedTime.MyVector.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter02-Time_Complexity\07-Amortized-Time-2\Chapter02._07_AmortizedTime2.MyVector.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -135,7 +148,7 @@
     <PathDelim Value="\"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity"/>
+      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
   </CompilerOptions>

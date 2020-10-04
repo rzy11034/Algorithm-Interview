@@ -13,7 +13,7 @@ procedure Run;
 implementation
 
 uses
-  Chapter02._05_RecursionTimeComplexity.Main2;
+  Chapter02._07_AmortizedTime2.MyVector;
 
 procedure Run;
 begin
