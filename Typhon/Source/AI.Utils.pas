@@ -8,40 +8,39 @@ uses
   Classes,
   SysUtils,
   Math;
-
 type
-  UChar = UnicodeChar;
   UString = UnicodeString;
-  TStringBuilder = TUnicodeStringBuilder;
+  UChar = UnicodeChar;
 
-  TArray_int = array of integer;
+  TArr_int = array of integer;
 
   TUtils = class(TObject)
   public
-    class function GenerateRandomArray(n, rangeL, rangeR: integer): TArray_int;
-    class function GenerateOrderedArray(n: integer): TArray_int;
+    class function GenerateRandomArray(n, rangeL, rangeR: integer): TArr_int;
+    class function GenerateOrderedArray(n: integer): TArr_int;
   end;
 
   TAlgorithmTester = class(TObject)
   public
     // O(logn)
-    class function BinarySearch(arr: TArray_int; target: integer): integer;
+    class function BinarySearch(arr: TArr_int; target: integer): integer;
 
     // O(N)
-    class function FindMax(arr: TArray_int): integer;
+    class function FindMax(arr: TArr_int): integer;
 
     // O(NlogN)
-    class procedure MergeSort(arr: TArray_int);
+    class procedure MergeSort(arr: TArr_int);
 
     // O(N^2)
-    class procedure SelectionSort(arr: TArray_int);
+    class procedure SelectionSort(arr: TArr_int);
   end;
 
 implementation
 
 { TAlgorithmTester }
 
-class function TAlgorithmTester.BinarySearch(arr: TArray_int; target: integer): integer;
+class function TAlgorithmTester.BinarySearch(arr: TArr_int; target: integer
+  ): integer;
 var
   l, r, mid: integer;
 begin
@@ -64,7 +63,7 @@ begin
   Result := -1;
 end;
 
-class function TAlgorithmTester.FindMax(arr: TArray_int): integer;
+class function TAlgorithmTester.FindMax(arr: TArr_int): integer;
 var
   res, i: integer;
 begin
@@ -79,10 +78,10 @@ begin
   Result := res;
 end;
 
-class procedure TAlgorithmTester.MergeSort(arr: TArray_int);
-  function __arrayCopyOfRange__(l, r: integer): TArray_int;
+class procedure TAlgorithmTester.MergeSort(arr: TArr_int);
+  function __arrayCopyOfRange__(l, r: integer): TArr_int;
   var
-    res: TArray_int;
+    res: TArr_int;
     i: integer;
   begin
     SetLength(res, r - l + 1);
@@ -149,7 +148,7 @@ begin
   end;
 end;
 
-class procedure TAlgorithmTester.SelectionSort(arr: TArray_int);
+class procedure TAlgorithmTester.SelectionSort(arr: TArr_int);
   procedure __swap__(i, j: integer);
   var
     temp: integer;
@@ -178,9 +177,9 @@ end;
 
 { TUtils }
 
-class function TUtils.GenerateOrderedArray(n: integer): TArray_int;
+class function TUtils.GenerateOrderedArray(n: integer): TArr_int;
 var
-  res: TArray_int;
+  res: TArr_int;
   i: integer;
 begin
   SetLength(res, n);
@@ -190,9 +189,9 @@ begin
   Result := res;
 end;
 
-class function TUtils.GenerateRandomArray(n, rangeL, rangeR: integer): TArray_int;
+class function TUtils.GenerateRandomArray(n, rangeL, rangeR: integer): TArr_int;
 var
-  res: TArray_int;
+  res: TArr_int;
   i: integer;
 begin
   Assert((n > 0) and (rangeL <= rangeR));

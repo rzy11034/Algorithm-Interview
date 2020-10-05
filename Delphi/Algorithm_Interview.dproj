@@ -6,8 +6,8 @@
         <MainSource>Algorithm_Interview.dpr</MainSource>
         <Base>True</Base>
         <Config Condition="'$(Config)'==''">Debug</Config>
-        <Platform Condition="'$(Platform)'==''">Win32</Platform>
-        <TargetedPlatforms>3</TargetedPlatforms>
+        <Platform Condition="'$(Platform)'==''">Win64</Platform>
+        <TargetedPlatforms>2</TargetedPlatforms>
         <AppType>Console</AppType>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
@@ -139,6 +139,8 @@
         <BT_BuildType>Debug</BT_BuildType>
         <VerInfo_Keys>CompanyName=;FileDescription=$(MSBuildProjectName);FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=$(MSBuildProjectName);ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
         <VerInfo_Locale>1033</VerInfo_Locale>
+        <DCC_UnitSearchPath>C:\Users\Administrator\Documents\Projects\Git\DeepStar-Lib\Delphi\Package;C:\Users\Administrator\Documents\Projects\Git\DeepStar-Lib\Delphi\Package\Win64\Debug;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
+        <Manifest_File>(None)</Manifest_File>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1)'!=''">
         <DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
@@ -152,10 +154,12 @@
         <DCC_RemoteDebug>false</DCC_RemoteDebug>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Manifest_File>(None)</Manifest_File>
+        <DCC_UnitSearchPath>C:\Users\Administrator\Documents\Projects\Git\DeepStar-Lib\Delphi\Package\Win32\Debug;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1_Win64)'!=''">
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Manifest_File>(None)</Manifest_File>
+        <DCC_UsePackage>DeepStar_Lib;$(DCC_UsePackage)</DCC_UsePackage>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
@@ -169,13 +173,17 @@
         </DelphiCompile>
         <DCCReference Include="Source\AI.Main.pas"/>
         <DCCReference Include="Source\AI.Utils.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_TimeComplexityBasic.Main.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_TimeComplexityBasic.Main2.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02._03_CommonCodeForTimeComplexity.Main.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main2.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main3.pas"/>
-        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_TimeComplexityExperiments.Main4.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_Main.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_Main2.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02._03_Main.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main2.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main3.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main4.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_Main.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_Main2.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\06-Amortized-Time\Chapter02._06_MyVector.pas"/>
+        <DCCReference Include="Source\Chapter02-Time_Complexity\07-Amortized-Time-2\Chapter02._07_MyVector.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -942,7 +950,7 @@
                 <Platform value="iOSSimulator">False</Platform>
                 <Platform value="Linux64">False</Platform>
                 <Platform value="OSX32">False</Platform>
-                <Platform value="Win32">True</Platform>
+                <Platform value="Win32">False</Platform>
                 <Platform value="Win64">True</Platform>
             </Platforms>
         </BorlandProject>

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{C243F2A3-4B7B-4A8B-ACC3-8CE43A8A4BA6}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Algorithm_Interview.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\DeepStar-Lib\Delphi\Package\DeepStar_Lib.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Algorithm_Interview">
+        <MSBuild Projects="Algorithm_Interview.dproj"/>
+    </Target>
+    <Target Name="Algorithm_Interview:Clean">
+        <MSBuild Projects="Algorithm_Interview.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Algorithm_Interview:Make">
+        <MSBuild Projects="Algorithm_Interview.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DeepStar_Lib">
+        <MSBuild Projects="..\..\DeepStar-Lib\Delphi\Package\DeepStar_Lib.dproj"/>
+    </Target>
+    <Target Name="DeepStar_Lib:Clean">
+        <MSBuild Projects="..\..\DeepStar-Lib\Delphi\Package\DeepStar_Lib.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DeepStar_Lib:Make">
+        <MSBuild Projects="..\..\DeepStar-Lib\Delphi\Package\DeepStar_Lib.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Algorithm_Interview;DeepStar_Lib"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Algorithm_Interview:Clean;DeepStar_Lib:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Algorithm_Interview:Make;DeepStar_Lib:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
