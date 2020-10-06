@@ -30,7 +30,7 @@ uses
   Chapter03._04_Solution3,
   Chapter03._04_Solution4,
   Chapter03._05_Solution1,
-  Chapter03._05_Solution2;
+  Chapter03._05_Solution2, Chapter03._06_Solution1, Chapter03._06_Solution3, Chapter03._06_Solution2;
 
 begin
   try

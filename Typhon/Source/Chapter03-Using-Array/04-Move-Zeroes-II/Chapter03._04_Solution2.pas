@@ -1,4 +1,4 @@
-unit Chapter03._04_Solution2;
+﻿unit Chapter03._04_Solution2;
 
 {$mode objfpc}{$H+}
 
