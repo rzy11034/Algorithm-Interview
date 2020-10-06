@@ -8,6 +8,7 @@ uses
   Classes,
   SysUtils,
   Math;
+
 type
   UString = UnicodeString;
   UChar = UnicodeChar;
@@ -39,8 +40,7 @@ implementation
 
 { TAlgorithmTester }
 
-class function TAlgorithmTester.BinarySearch(arr: TArr_int; target: integer
-  ): integer;
+class function TAlgorithmTester.BinarySearch(arr: TArr_int; target: integer): integer;
 var
   l, r, mid: integer;
 begin

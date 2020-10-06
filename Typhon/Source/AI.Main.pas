@@ -13,7 +13,7 @@ procedure Run;
 implementation
 
 uses
-  Chapter03._05_Solution2;
+  Chapter03._06_Solution3;
 
 procedure Run;
 begin
