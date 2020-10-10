@@ -30,7 +30,7 @@ implementation
 
 function TSolution.MinSubArrayLen(arr: TArr_int; sum: integer): integer;
 begin
-  Min();
+  //Min();
 end;
 
 end.

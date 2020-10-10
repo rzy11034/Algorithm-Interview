@@ -9,8 +9,8 @@
         <Filename Value="Algorithm_Interview.ppr"/>
         <FRMtype Value="0"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos X="25" Y="35"/>
+        <TopLine Value="31"/>
+        <CursorPos X="61" Y="35"/>
         <UsageCount Value="58"/>
         <Loaded Value="True"/>
       </Unit>
@@ -213,9 +213,10 @@
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
-        <TopLine Value="10"/>
-        <CursorPos X="9" Y="33"/>
+        <TopLine Value="16"/>
+        <CursorPos X="38" Y="24"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
@@ -359,7 +360,7 @@
         <UsageCount Value="9"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="3">
+    <JumpHistory HistoryIndex="4">
       <Position>
         <Filename Value="Source\AI.Main.pas"/>
         <Caret Line="16" Column="25"/>
@@ -375,6 +376,10 @@
       <Position>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution1.pas"/>
         <Caret Line="33" Column="7" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution1.pas"/>
+        <Caret Line="18" Column="16" TopLine="13"/>
       </Position>
     </JumpHistory>
     <RunParams>
