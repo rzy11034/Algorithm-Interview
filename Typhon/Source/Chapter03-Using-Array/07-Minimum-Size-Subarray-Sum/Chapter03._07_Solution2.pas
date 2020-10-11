@@ -5,7 +5,10 @@
 interface
 
 uses
-  Classes, SysUtils;
+  Classes,
+  SysUtils,
+  Math,
+  DeepStar.Utils;
 
 // 209. Minimum Size Subarray Sum
 // https://leetcode.com/problems/minimum-size-subarray-sum/description/
@@ -43,9 +46,33 @@ end;
 { TSolution }
 
 function TSolution.MinSubArrayLen(arr: TArr_int; s: integer): integer;
+var
+  ret, l, r, i: integer;
+  sums: TArr_int;
 begin
+  Assert((s >= 0) and (arr <> nil));
 
+  // ums[i]存放nums[0...i-1]的和
+  SetLength(sums, Length(arr) + 1);
+  sums[0] := 0;
+  for i := 1 to Length(arr) do
+    sums[i] := sums[i - 1] + arr[i - 1];
+
+  ret := Length(arr) + 1;
+  for l := 0 to High(arr) do
+  begin
+    for r := l to High(arr) do
+    begin
+      // 使用sums[r+1] - sums[l] 快速获得nums[l...r]的和
+      if sums[r + 1] - sums[l] >= s then
+        ret := Min(ret, r - l + 1);
+    end;
+  end;
+
+  if ret = Length(arr) + 1 then
+    Exit(0);
+
+  Result := ret;
 end;
 
 end.
-
