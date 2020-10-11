@@ -1,4 +1,4 @@
-unit Chapter03._07_Solution1;
+﻿unit Chapter03._07_Solution1;
 
 {$mode objfpc}{$H+}
 
@@ -21,16 +21,52 @@ uses
 type
   TSolution = class(TObject)
   public
-    function MinSubArrayLen(arr: TArr_int; sum: integer): integer;
+    function MinSubArrayLen(arr: TArr_int; s: integer): integer;
   end;
+
+procedure Main;
 
 implementation
 
+procedure Main;
+var
+  nums: TArr_int;
+  ret: integer;
+begin
+  nums := [2, 3, 1, 2, 4, 3];
+
+  with TSolution.Create do
+  begin
+    ret := MinSubArrayLen(nums, 7);
+    Free;
+  end;
+
+  WriteLn(ret);
+end;
+
 { TSolution }
 
-function TSolution.MinSubArrayLen(arr: TArr_int; sum: integer): integer;
+function TSolution.MinSubArrayLen(arr: TArr_int; s: integer): integer;
+var
+  ret, l, r, sum, i: integer;
 begin
-  //Min();
+  ret := Length(arr) + 1;
+
+  for l := 0 to High(arr) do
+  begin
+    for r := l to High(arr) do
+    begin
+      sum := 0;
+
+      for i := l to r do
+        sum += arr[i];
+
+      if sum >= s then
+        ret := Min(ret, r - l + 1);
+    end;
+  end;
+
+  Result := ret;
 end;
 
 end.

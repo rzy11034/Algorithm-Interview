@@ -1,4 +1,4 @@
-unit Chapter03._06_Solution1;
+﻿unit Chapter03._06_Solution1;
 
 {$mode objfpc}{$H+}
 
@@ -46,7 +46,6 @@ end;
 function TSolution.TwoSum(arr: TArr_int; target: integer): TArr_int;
 var
   i, j: integer;
-  ret: TArr_int;
 begin
   for i := 0 to High(arr) do
   begin
