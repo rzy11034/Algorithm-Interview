@@ -9,17 +9,18 @@
         <Filename Value="Algorithm_Interview.ppr"/>
         <FRMtype Value="0"/>
         <IsPartOfProject Value="True"/>
-        <TopLine Value="31"/>
-        <CursorPos X="61" Y="35"/>
-        <UsageCount Value="73"/>
+        <TopLine Value="3"/>
+        <CursorPos X="38" Y="25"/>
+        <UsageCount Value="76"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="Source\AI.Main.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
-        <CursorPos X="26" Y="16"/>
-        <UsageCount Value="73"/>
+        <CursorPos X="25" Y="13"/>
+        <UsageCount Value="76"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -28,7 +29,7 @@
         <EditorIndex Value="1"/>
         <TopLine Value="31"/>
         <CursorPos X="21" Y="64"/>
-        <UsageCount Value="73"/>
+        <UsageCount Value="76"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -36,14 +37,14 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="14" Y="38"/>
-        <UsageCount Value="73"/>
+        <UsageCount Value="76"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_Main2.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="14" Y="24"/>
-        <UsageCount Value="73"/>
+        <UsageCount Value="76"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02._03_Main.pas"/>
@@ -51,7 +52,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="219"/>
         <CursorPos X="32" Y="92"/>
-        <UsageCount Value="72"/>
+        <UsageCount Value="75"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main.pas"/>
@@ -59,7 +60,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="20"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="67"/>
+        <UsageCount Value="70"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main2.pas"/>
@@ -67,7 +68,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="20"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="58"/>
+        <UsageCount Value="61"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main3.pas"/>
@@ -75,7 +76,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="2"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="56"/>
+        <UsageCount Value="59"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main4.pas"/>
@@ -83,28 +84,28 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="17"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="56"/>
+        <UsageCount Value="59"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_Main.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="101" Y="11"/>
-        <UsageCount Value="56"/>
+        <UsageCount Value="59"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_Main2.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="18" Y="27"/>
-        <UsageCount Value="55"/>
+        <UsageCount Value="58"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\06-Amortized-Time\Chapter02._06_MyVector.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="10" Y="5"/>
-        <UsageCount Value="53"/>
+        <UsageCount Value="56"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\07-Amortized-Time-2\Chapter02._07_MyVector.pas"/>
@@ -112,7 +113,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="70"/>
         <CursorPos X="32" Y="84"/>
-        <UsageCount Value="51"/>
+        <UsageCount Value="54"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\01-Binary-Search\Chapter03._01_Main.pas"/>
@@ -120,7 +121,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="44"/>
         <CursorPos X="5" Y="57"/>
-        <UsageCount Value="48"/>
+        <UsageCount Value="51"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\02-Binary-Search-II\Chapter03._02_Main.pas"/>
@@ -128,7 +129,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="26" Y="53"/>
-        <UsageCount Value="47"/>
+        <UsageCount Value="50"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\03-Move-Zeroes\Chapter03._03_Solution.pas"/>
@@ -136,7 +137,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="59"/>
         <CursorPos X="7" Y="63"/>
-        <UsageCount Value="47"/>
+        <UsageCount Value="50"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution1.pas"/>
@@ -144,7 +145,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="7"/>
         <CursorPos X="19" Y="10"/>
-        <UsageCount Value="46"/>
+        <UsageCount Value="49"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution2.pas"/>
@@ -152,7 +153,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="36"/>
         <CursorPos X="14" Y="59"/>
-        <UsageCount Value="46"/>
+        <UsageCount Value="49"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution3.pas"/>
@@ -160,7 +161,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="37"/>
         <CursorPos X="14" Y="59"/>
-        <UsageCount Value="45"/>
+        <UsageCount Value="48"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution4.pas"/>
@@ -168,7 +169,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="5" Y="42"/>
-        <UsageCount Value="45"/>
+        <UsageCount Value="48"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\05-Sort-Colors\Chapter03._05_Solution1.pas"/>
@@ -176,7 +177,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="30" Y="42"/>
-        <UsageCount Value="45"/>
+        <UsageCount Value="48"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\05-Sort-Colors\Chapter03._05_Solution2.pas"/>
@@ -184,7 +185,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="51"/>
         <CursorPos X="40" Y="52"/>
-        <UsageCount Value="45"/>
+        <UsageCount Value="48"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\06-Two-Sum-II\Chapter03._06_Solution1.pas"/>
@@ -192,7 +193,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="31"/>
         <CursorPos Y="49"/>
-        <UsageCount Value="39"/>
+        <UsageCount Value="42"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\06-Two-Sum-II\Chapter03._06_Solution3.pas"/>
@@ -200,7 +201,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="33"/>
         <CursorPos X="30" Y="60"/>
-        <UsageCount Value="39"/>
+        <UsageCount Value="42"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\06-Two-Sum-II\Chapter03._06_Solution2.pas"/>
@@ -208,46 +209,48 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="50"/>
         <CursorPos X="9" Y="77"/>
-        <UsageCount Value="39"/>
+        <UsageCount Value="42"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="3"/>
-        <TopLine Value="20"/>
-        <CursorPos X="48" Y="26"/>
-        <UsageCount Value="36"/>
-        <Loaded Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="34" Y="47"/>
+        <UsageCount Value="39"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="4"/>
-        <TopLine Value="52"/>
-        <CursorPos X="9" Y="70"/>
-        <UsageCount Value="36"/>
-        <Loaded Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="9" Y="44"/>
+        <UsageCount Value="39"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution3.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="6"/>
-        <UsageCount Value="36"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="36" Y="6"/>
+        <UsageCount Value="39"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution4.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="7"/>
-        <UsageCount Value="36"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="62"/>
+        <CursorPos X="24" Y="86"/>
+        <UsageCount Value="39"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="8"/>
-        <UsageCount Value="36"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="62"/>
+        <CursorPos X="16" Y="71"/>
+        <UsageCount Value="39"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -350,8 +353,9 @@
         <Filename Value="..\..\DeepStar-Lib\Typhon\Package\Source\Utils\DeepStar.Utils.pas"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
-        <CursorPos X="31" Y="20"/>
-        <UsageCount Value="8"/>
+        <TopLine Value="40"/>
+        <CursorPos X="25" Y="23"/>
+        <UsageCount Value="10"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\DeepStar-Lib\Typhon\Package\Source\Utils\DeepStar.Utils.UString.pas"/>
@@ -380,133 +384,132 @@
       <Unit>
         <Filename Value="..\..\DeepStar-Lib\Typhon\Package\Source\DSA\Hash\DeepStar.DSA.Hash.HashMap.pas"/>
         <FRMtype Value="0"/>
-        <EditorIndex Value="5"/>
-        <TopLine Value="257"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="232"/>
         <CursorPos X="39" Y="232"/>
         <UsageCount Value="10"/>
-        <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="51"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution4.pas"/>
+        <Caret Line="5"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="68" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution4.pas"/>
+        <Caret Line="11" Column="18"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="22" Column="29" TopLine="9"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="28" Column="50" TopLine="11"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="68" TopLine="52"/>
+        <Filename Value="Source\AI.Main.pas"/>
+        <Caret Line="16" Column="26"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="81" Column="24" TopLine="62"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="75" Column="30" TopLine="58"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="68" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="68" Column="7" TopLine="4"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="10" Column="8"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="62" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="64" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="66" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="66" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="66" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="66" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="68" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="66" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="67" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="68" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="66" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="64" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="65" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="62" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="68" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="..\..\DeepStar-Lib\Typhon\Package\Source\DSA\Hash\DeepStar.DSA.Hash.HashMap.pas"/>
-        <Caret Line="55" Column="16" TopLine="32"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="69" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="53" Column="29" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="73" TopLine="64"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="55" Column="29" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="75" TopLine="64"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="53" Column="39" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="76" TopLine="64"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="55" Column="29" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="78" Column="54" TopLine="64"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
-        <Caret Line="54" Column="41" TopLine="52"/>
+        <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
+        <Caret Line="79" Column="20" TopLine="67"/>
       </Position>
     </JumpHistory>
     <RunParams>
