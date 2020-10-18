@@ -22,7 +22,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2;Source\Chapter03-Using-Array\01-Binary-Search;Source\Chapter03-Using-Array\02-Binary-Search-II;Source\Chapter03-Using-Array\03-Move-Zeroes;Source\Chapter03-Using-Array\04-Move-Zeroes-II;Source\Chapter03-Using-Array\05-Sort-Colors;Source\Chapter03-Using-Array\06-Two-Sum-II;Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2;Source\Chapter03-Using-Array\01-Binary-Search;Source\Chapter03-Using-Array\02-Binary-Search-II;Source\Chapter03-Using-Array\03-Move-Zeroes;Source\Chapter03-Using-Array\04-Move-Zeroes-II;Source\Chapter03-Using-Array\05-Sort-Colors;Source\Chapter03-Using-Array\06-Two-Sum-II;Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum;Source\Chapter03-Using-Array\08-Longest-Substring-Without-Repeating-Characters;Source\Chapter04-Using-Hash-Table\01-Intersection-of-Two-Arrays;Source\Chapter04-Using-Hash-Table\02-Intersection-of-Two-Arrays-II;Source\Chapter04-Using-Hash-Table\03-More-About-Set-And-Map;Source\Chapter04-Using-Hash-Table\04-Two-Sum"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <Parsing>
@@ -53,7 +53,7 @@
           <PathDelim Value="\"/>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2;Source\Chapter03-Using-Array\01-Binary-Search;Source\Chapter03-Using-Array\02-Binary-Search-II;Source\Chapter03-Using-Array\03-Move-Zeroes;Source\Chapter03-Using-Array\04-Move-Zeroes-II;Source\Chapter03-Using-Array\05-Sort-Colors;Source\Chapter03-Using-Array\06-Two-Sum-II;Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum"/>
+            <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2;Source\Chapter03-Using-Array\01-Binary-Search;Source\Chapter03-Using-Array\02-Binary-Search-II;Source\Chapter03-Using-Array\03-Move-Zeroes;Source\Chapter03-Using-Array\04-Move-Zeroes-II;Source\Chapter03-Using-Array\05-Sort-Colors;Source\Chapter03-Using-Array\06-Two-Sum-II;Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum;Source\Chapter03-Using-Array\08-Longest-Substring-Without-Repeating-Characters;Source\Chapter04-Using-Hash-Table\01-Intersection-of-Two-Arrays;Source\Chapter04-Using-Hash-Table\02-Intersection-of-Two-Arrays-II;Source\Chapter04-Using-Hash-Table\03-More-About-Set-And-Map;Source\Chapter04-Using-Hash-Table\04-Two-Sum"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -209,6 +209,26 @@
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter03-Using-Array\08-Longest-Substring-Without-Repeating-Characters\Chapter03._08_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter04-Using-Hash-Table\01-Intersection-of-Two-Arrays\Chapter04._01_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter04-Using-Hash-Table\02-Intersection-of-Two-Arrays-II\Chapter04._02_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter04-Using-Hash-Table\03-More-About-Set-And-Map\Chapter04._03_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter04-Using-Hash-Table\04-Two-Sum\Chapter04._04_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -216,7 +236,7 @@
     <PathDelim Value="\"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2;Source\Chapter03-Using-Array\01-Binary-Search;Source\Chapter03-Using-Array\02-Binary-Search-II;Source\Chapter03-Using-Array\03-Move-Zeroes;Source\Chapter03-Using-Array\04-Move-Zeroes-II;Source\Chapter03-Using-Array\05-Sort-Colors;Source\Chapter03-Using-Array\06-Two-Sum-II;Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum"/>
+      <OtherUnitFiles Value="Source;Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic;Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity;Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments;Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity;Source\Chapter02-Time_Complexity\06-Amortized-Time;Source\Chapter02-Time_Complexity\07-Amortized-Time-2;Source\Chapter03-Using-Array\01-Binary-Search;Source\Chapter03-Using-Array\02-Binary-Search-II;Source\Chapter03-Using-Array\03-Move-Zeroes;Source\Chapter03-Using-Array\04-Move-Zeroes-II;Source\Chapter03-Using-Array\05-Sort-Colors;Source\Chapter03-Using-Array\06-Two-Sum-II;Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum;Source\Chapter03-Using-Array\08-Longest-Substring-Without-Repeating-Characters;Source\Chapter04-Using-Hash-Table\01-Intersection-of-Two-Arrays;Source\Chapter04-Using-Hash-Table\02-Intersection-of-Two-Arrays-II;Source\Chapter04-Using-Hash-Table\03-More-About-Set-And-Map;Source\Chapter04-Using-Hash-Table\04-Two-Sum"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
   </CompilerOptions>
