@@ -27,8 +27,22 @@ procedure Main;
 implementation
 
 procedure Main;
+var
+  nums: TArr_int;
+  k, t: integer;
+  ret: boolean;
 begin
+  nums := [1, 5, 9, 1, 5, 9];
+  k := 2;
+  t := 3;
 
+  with TSolution.Create do
+  begin
+    ret := containsNearbyAlmostDuplicate(nums, k, t);
+    Free;
+  end;
+
+  WriteLn(ret);
 end;
 
 { TSolution }
@@ -42,10 +56,14 @@ begin
 
   for i := 0 to High(nums) do
   begin
-    if recordSet.Contains(nums[i]) then
+    if (recordSet.Ceiling(Abs(nums[i] - t)) <> nil) and
+      (recordSet.Ceiling(Abs(nums[i] - t)).Value <= nums[i] + t) then
+    begin
       Exit(true);
+    end;
 
     recordSet.Add(nums[i]);
+
     if recordSet.Count = k + 1 then
       recordSet.Remove(nums[i - k]);
   end;
