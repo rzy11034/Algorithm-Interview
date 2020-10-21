@@ -43,11 +43,8 @@ begin
 
     l.Clear;
     m.Clear;
-
     l.Free;
     m.Free;
-
-
 
     Free;
   end;

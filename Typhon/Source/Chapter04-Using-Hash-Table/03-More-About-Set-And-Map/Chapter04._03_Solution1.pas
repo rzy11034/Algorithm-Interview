@@ -44,7 +44,7 @@ var
   resultList: TList_int;
   i,x: integer;
 begin
-  recordMap := TMap_int_int.Create(10);
+  recordMap := TMap_int_int.Create;
   for i := 0 to High(nums1) do
   begin
     x := nums1[i];
@@ -66,6 +66,9 @@ begin
   end;
 
   Result := resultList.ToArray;
+
+  recordMap.Free;
+  resultList.Free;
 end;
 
 end.
