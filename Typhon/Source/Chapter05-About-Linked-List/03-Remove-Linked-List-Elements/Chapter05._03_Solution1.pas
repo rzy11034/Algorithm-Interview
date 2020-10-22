@@ -42,6 +42,8 @@ begin
     WriteLn(m.ToString);
     Free;
   end;
+
+  l.CLearAndFree;
 end;
 
 { TSolution }

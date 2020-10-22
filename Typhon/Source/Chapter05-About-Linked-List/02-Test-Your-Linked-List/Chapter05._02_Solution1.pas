@@ -18,7 +18,7 @@ implementation
 procedure Main;
 var
   a: TArr_int;
-  l, m: TListNode;
+  l,m: TListNode;
 begin
   a := [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
   l := TListNode.Create(a);
@@ -28,8 +28,13 @@ begin
   begin
     m := reverseList(l);
     WriteLn(m.ToString);
+
     Free;
   end;
+
+  WriteLn(l.ToString);
+
+  m.CLearAndFree;
 end;
 
 end.

@@ -16,14 +16,14 @@ uses
 type
   TSolution = class(TObject)
   public
-    function reverseList(head: TListNode): TListNode;
+    function reverseList(var head: TListNode): TListNode;
   end;
 
 implementation
 
 { TSolution }
 
-function TSolution.reverseList(head: TListNode): TListNode;
+function TSolution.reverseList(var head: TListNode): TListNode;
 var
   pre, cur, next: TListNode;
 begin
@@ -39,6 +39,7 @@ begin
     cur := next;
   end;
 
+  head := pre;
   Result := pre;
 end;
 

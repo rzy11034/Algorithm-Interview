@@ -29,7 +29,7 @@ procedure Main;
 var
   a: TArr_int;
   val: integer;
-  l, m: TListNode;
+  l: TListNode;
 begin
   a := [1, 2, 6, 3, 4, 5, 6];
   val := 6;
@@ -38,16 +38,12 @@ begin
   begin
     l := TListNode.Create(a);
     WriteLn(l.ToString);
-    m := removeElements(TListNode.Create(a), val);
-    WriteLn(m.ToString);
-
-    l.Clear;
-    m.Clear;
-    l.Free;
-    m.Free;
-
+    removeElements(l, val);
+    WriteLn(l.ToString);
     Free;
   end;
+
+  l.CLearAndFree;
 end;
 
 { TSolution }

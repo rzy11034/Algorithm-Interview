@@ -21,7 +21,7 @@ type
     destructor Destroy; override;
 
     function ToString: UString; reintroduce;
-    procedure Clear;
+    procedure CLearAndFree;
   end;
 
 implementation
@@ -51,7 +51,7 @@ begin
   end;
 end;
 
-procedure TListNode.Clear;
+procedure TListNode.CLearAndFree;
 var
   cur, del: TListNode;
 begin
@@ -62,6 +62,8 @@ begin
     cur.Next := del.Next;
     FreeAndNil(del);
   end;
+
+  Self.Free;
 end;
 
 destructor TListNode.Destroy;
@@ -83,7 +85,9 @@ begin
     sb.Append(cur.Val.ToString);
 
     if cur.Next <> nil then
-      sb.Append(', ');
+      sb.Append(' -> ')
+    else
+      sb.Append(' -> NULL');
 
     cur := cur.Next;
   end;
