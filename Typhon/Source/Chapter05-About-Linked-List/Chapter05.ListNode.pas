@@ -20,6 +20,7 @@ type
     constructor Create(arr: TArr_int);
     destructor Destroy; override;
 
+    function FindNdoe(v: integer): TListNode;
     function ToString: UString; reintroduce;
     procedure CLearAndFree;
   end;
@@ -69,6 +70,25 @@ end;
 destructor TListNode.Destroy;
 begin
   inherited Destroy;
+end;
+
+function TListNode.FindNdoe(v: integer): TListNode;
+var
+  cur: TListNode;
+begin
+  if Self = nil then exit;
+  if self.Val = v then Exit(self);
+
+  cur := self.Next;
+  while cur <> nil do
+  begin
+    if cur.Val = v then
+      Break;
+
+    cur := cur.Next;
+  end;
+
+  Result := cur;
 end;
 
 function TListNode.ToString: UString;

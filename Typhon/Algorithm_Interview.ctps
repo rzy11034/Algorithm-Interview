@@ -10,17 +10,16 @@
         <FRMtype Value="0"/>
         <IsPartOfProject Value="True"/>
         <TopLine Value="16"/>
-        <CursorPos X="26" Y="24"/>
-        <UsageCount Value="111"/>
+        <CursorPos X="51" Y="24"/>
+        <UsageCount Value="116"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="Source\AI.Main.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="7"/>
-        <CursorPos Y="20"/>
-        <UsageCount Value="111"/>
+        <CursorPos X="75" Y="18"/>
+        <UsageCount Value="116"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -28,7 +27,7 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
         <CursorPos X="109" Y="57"/>
-        <UsageCount Value="111"/>
+        <UsageCount Value="116"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -36,14 +35,14 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="14" Y="38"/>
-        <UsageCount Value="111"/>
+        <UsageCount Value="116"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\02-Time-Complexity-Basic\Chapter02._02_Main2.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="14" Y="24"/>
-        <UsageCount Value="111"/>
+        <UsageCount Value="116"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\03-Common-Code-for-Time-Complexity\Chapter02._03_Main.pas"/>
@@ -51,7 +50,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="219"/>
         <CursorPos X="32" Y="92"/>
-        <UsageCount Value="110"/>
+        <UsageCount Value="115"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main.pas"/>
@@ -59,7 +58,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="20"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="105"/>
+        <UsageCount Value="110"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main2.pas"/>
@@ -67,7 +66,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="20"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="96"/>
+        <UsageCount Value="101"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main3.pas"/>
@@ -75,7 +74,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="2"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="94"/>
+        <UsageCount Value="99"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\04-Time-Complexity-Experiments\Chapter02._04_Main4.pas"/>
@@ -83,28 +82,28 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="17"/>
         <CursorPos X="12" Y="20"/>
-        <UsageCount Value="94"/>
+        <UsageCount Value="99"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_Main.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="101" Y="11"/>
-        <UsageCount Value="94"/>
+        <UsageCount Value="99"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\05-Recursion-Time-Complexity\Chapter02._05_Main2.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="18" Y="27"/>
-        <UsageCount Value="93"/>
+        <UsageCount Value="98"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\06-Amortized-Time\Chapter02._06_MyVector.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="10" Y="5"/>
-        <UsageCount Value="91"/>
+        <UsageCount Value="96"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter02-Time_Complexity\07-Amortized-Time-2\Chapter02._07_MyVector.pas"/>
@@ -112,7 +111,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="70"/>
         <CursorPos X="32" Y="84"/>
-        <UsageCount Value="89"/>
+        <UsageCount Value="94"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\01-Binary-Search\Chapter03._01_Main.pas"/>
@@ -120,7 +119,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="44"/>
         <CursorPos X="5" Y="57"/>
-        <UsageCount Value="86"/>
+        <UsageCount Value="91"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\02-Binary-Search-II\Chapter03._02_Main.pas"/>
@@ -128,7 +127,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="26" Y="53"/>
-        <UsageCount Value="85"/>
+        <UsageCount Value="90"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\03-Move-Zeroes\Chapter03._03_Solution.pas"/>
@@ -136,7 +135,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="59"/>
         <CursorPos X="7" Y="63"/>
-        <UsageCount Value="85"/>
+        <UsageCount Value="90"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution1.pas"/>
@@ -144,7 +143,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="7"/>
         <CursorPos X="19" Y="10"/>
-        <UsageCount Value="84"/>
+        <UsageCount Value="89"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution2.pas"/>
@@ -152,7 +151,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="36"/>
         <CursorPos X="14" Y="59"/>
-        <UsageCount Value="84"/>
+        <UsageCount Value="89"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution3.pas"/>
@@ -160,7 +159,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="37"/>
         <CursorPos X="14" Y="59"/>
-        <UsageCount Value="83"/>
+        <UsageCount Value="88"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\04-Move-Zeroes-II\Chapter03._04_Solution4.pas"/>
@@ -168,7 +167,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="5" Y="42"/>
-        <UsageCount Value="83"/>
+        <UsageCount Value="88"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\05-Sort-Colors\Chapter03._05_Solution1.pas"/>
@@ -176,7 +175,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="30" Y="42"/>
-        <UsageCount Value="83"/>
+        <UsageCount Value="88"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\05-Sort-Colors\Chapter03._05_Solution2.pas"/>
@@ -184,7 +183,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="51"/>
         <CursorPos X="40" Y="52"/>
-        <UsageCount Value="83"/>
+        <UsageCount Value="88"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\06-Two-Sum-II\Chapter03._06_Solution1.pas"/>
@@ -192,7 +191,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="31"/>
         <CursorPos Y="49"/>
-        <UsageCount Value="77"/>
+        <UsageCount Value="82"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\06-Two-Sum-II\Chapter03._06_Solution3.pas"/>
@@ -200,7 +199,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="33"/>
         <CursorPos X="30" Y="60"/>
-        <UsageCount Value="77"/>
+        <UsageCount Value="82"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\06-Two-Sum-II\Chapter03._06_Solution2.pas"/>
@@ -208,7 +207,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="50"/>
         <CursorPos X="9" Y="77"/>
-        <UsageCount Value="77"/>
+        <UsageCount Value="82"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution1.pas"/>
@@ -216,7 +215,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="13"/>
         <CursorPos X="11" Y="45"/>
-        <UsageCount Value="74"/>
+        <UsageCount Value="79"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution2.pas"/>
@@ -224,7 +223,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
         <CursorPos X="9" Y="44"/>
-        <UsageCount Value="74"/>
+        <UsageCount Value="79"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution3.pas"/>
@@ -232,7 +231,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="26"/>
         <CursorPos X="39" Y="76"/>
-        <UsageCount Value="74"/>
+        <UsageCount Value="79"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution4.pas"/>
@@ -240,7 +239,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="56"/>
         <CursorPos X="24" Y="86"/>
-        <UsageCount Value="74"/>
+        <UsageCount Value="79"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\07-Minimum-Size-Subarray-Sum\Chapter03._07_Solution5.pas"/>
@@ -248,7 +247,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="62"/>
         <CursorPos X="16" Y="71"/>
-        <UsageCount Value="74"/>
+        <UsageCount Value="79"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter03-Using-Array\08-Longest-Substring-Without-Repeating-Characters\Chapter03._08_Solution1.pas"/>
@@ -256,7 +255,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
         <CursorPos X="5" Y="43"/>
-        <UsageCount Value="53"/>
+        <UsageCount Value="58"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\01-Intersection-of-Two-Arrays\Chapter04._01_Solution1.pas"/>
@@ -264,7 +263,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="31"/>
         <CursorPos X="37" Y="45"/>
-        <UsageCount Value="50"/>
+        <UsageCount Value="55"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\02-Intersection-of-Two-Arrays-II\Chapter04._02_Solution1.pas"/>
@@ -272,7 +271,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="38"/>
         <CursorPos X="5" Y="72"/>
-        <UsageCount Value="50"/>
+        <UsageCount Value="55"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\03-More-About-Set-And-Map\Chapter04._03_Solution1.pas"/>
@@ -280,7 +279,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="55"/>
         <CursorPos X="36" Y="44"/>
-        <UsageCount Value="47"/>
+        <UsageCount Value="52"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\04-Two-Sum\Chapter04._04_Solution1.pas"/>
@@ -288,7 +287,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="13"/>
         <CursorPos X="8" Y="37"/>
-        <UsageCount Value="46"/>
+        <UsageCount Value="51"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\05-4Sum-II\Chapter04._05_Solution1.pas"/>
@@ -296,14 +295,14 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="17"/>
         <CursorPos X="65" Y="20"/>
-        <UsageCount Value="43"/>
+        <UsageCount Value="48"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\06-Number-of-Boomerangs\Chapter04._06_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="63" Y="4"/>
-        <UsageCount Value="41"/>
+        <UsageCount Value="46"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\07-Contains-Duplicate-II\Chapter04._07_Solution1.pas"/>
@@ -311,7 +310,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="59"/>
         <CursorPos X="22" Y="80"/>
-        <UsageCount Value="39"/>
+        <UsageCount Value="44"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\08-Contains-Duplicate-III\Chapter04._08_Solution1.pas"/>
@@ -319,22 +318,22 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="35"/>
         <CursorPos X="4" Y="53"/>
-        <UsageCount Value="37"/>
+        <UsageCount Value="42"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\01-Reverse-Linked-List\Chapter05._01_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
-        <UsageCount Value="33"/>
+        <UsageCount Value="38"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="3"/>
-        <TopLine Value="41"/>
-        <CursorPos X="5" Y="72"/>
-        <UsageCount Value="33"/>
+        <TopLine Value="96"/>
+        <CursorPos X="24" Y="100"/>
+        <UsageCount Value="38"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -343,7 +342,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="16"/>
         <CursorPos X="104" Y="25"/>
-        <UsageCount Value="32"/>
+        <UsageCount Value="37"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\02-Test-Your-Linked-List\Chapter05._02_Solution1.pas"/>
@@ -351,7 +350,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="4"/>
         <CursorPos X="42" Y="30"/>
-        <UsageCount Value="31"/>
+        <UsageCount Value="36"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\03-Remove-Linked-List-Elements\Chapter05._03_Solution1.pas"/>
@@ -359,7 +358,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="8"/>
         <CursorPos X="20" Y="33"/>
-        <UsageCount Value="30"/>
+        <UsageCount Value="35"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\03-Remove-Linked-List-Elements\Chapter05._03_Solution2.pas"/>
@@ -367,7 +366,26 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="49"/>
         <CursorPos X="33" Y="75"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="4"/>
+        <CursorPos X="12" Y="21"/>
         <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="21"/>
+        <CursorPos X="33" Y="24"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
@@ -577,89 +595,127 @@
         <CursorPos X="12" Y="334"/>
         <UsageCount Value="10"/>
       </Unit>
-      <Unit>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="4"/>
-        <TopLine Value="51"/>
-        <CursorPos X="18" Y="55"/>
-        <UsageCount Value="23"/>
-        <Loaded Value="True"/>
-      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="17">
+    <JumpHistory HistoryIndex="29">
       <Position>
-        <Filename Value="Source\AI.Main.pas"/>
-        <Caret Line="17" Column="23" TopLine="6"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="17" Column="22"/>
       </Position>
       <Position>
         <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
-        <Caret Line="24" Column="20" TopLine="12"/>
+        <Caret Line="23" Column="46" TopLine="8"/>
       </Position>
       <Position>
         <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
-        <Caret Line="66" Column="13" TopLine="45"/>
+        <Caret Line="91" Column="17" TopLine="72"/>
       </Position>
       <Position>
         <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
-        <Caret Line="24" Column="27" TopLine="13"/>
-      </Position>
-      <Position>
-        <Filename Value="Source\AI.Main.pas"/>
-        <Caret Line="17" Column="23" TopLine="6"/>
+        <Caret Line="79" Column="11" TopLine="62"/>
       </Position>
       <Position>
         <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
-        <Caret Line="25" Column="20" TopLine="10"/>
+        <Caret Line="82" Column="20" TopLine="66"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
-        <Caret Line="81" Column="26" TopLine="63"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="53" Column="15" TopLine="42"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\Chapter05.ListNode.pas"/>
-        <Caret Line="25" Column="15" TopLine="11"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="37" TopLine="20"/>
       </Position>
       <Position>
-        <Filename Value="Source\AI.Main.pas"/>
-        <Caret Line="23" Column="24" TopLine="6"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="38" TopLine="21"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="15" Column="52"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="55" TopLine="45"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="25" Column="28" TopLine="7"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="57" TopLine="45"/>
       </Position>
       <Position>
-        <Filename Value="Source\AI.Main.pas"/>
-        <Caret Line="16" Column="26" TopLine="6"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="58" TopLine="45"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="27" Column="35" TopLine="13"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="68" TopLine="59"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="37" Column="22" TopLine="22"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="57" Column="21" TopLine="34"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="36" Column="5" TopLine="25"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="58" Column="17" TopLine="43"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="37" Column="28" TopLine="22"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="37" TopLine="22"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="34" Column="7" TopLine="19"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="38" TopLine="22"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
-        <Caret Line="42" Column="13" TopLine="23"/>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="55" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="58" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="59" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="69" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="48" Column="36" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="30" Column="48" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="37" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="38" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="39" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="40" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="43" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="53" Column="10" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="37" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
+        <Caret Line="38" TopLine="27"/>
       </Position>
     </JumpHistory>
     <RunParams>
