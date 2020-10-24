@@ -7,7 +7,7 @@ interface
 uses
   Classes,
   SysUtils,
-  Chapter05.ListNode,
+  AI.ListNode,
   DeepStar.Utils;
 
 // 237. Delete Node in a Linked List

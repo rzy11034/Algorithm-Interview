@@ -7,8 +7,8 @@ interface
 uses
   Classes,
   SysUtils,
-  Chapter05.ListNode,
-  DeepStar.Utils;
+  DeepStar.Utils,
+  AI.ListNode;
 
 // 203. Remove Linked List Elements
 // https://leetcode.com/problems/remove-linked-list-elements/description/

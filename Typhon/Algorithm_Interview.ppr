@@ -19,10 +19,13 @@ uses
   Chapter03._08_Solution1, Chapter04._01_Solution1, Chapter04._03_Solution1,
   Chapter04._04_Solution1, Chapter04._05_Solution1, Chapter04._06_Solution1,
   Chapter04._07_Solution1, Chapter04._08_Solution1, Chapter04._02_Solution1,
-  Chapter05._01_Solution1, Chapter05.ListNode, Chapter05._02_Solution1,
+  Chapter05._01_Solution1, AI.ListNode, Chapter05._02_Solution1,
   Chapter05._01_Solution2, Chapter05._03_Solution1, Chapter05._03_Solution2,
   Chapter05._04_Solution1, Chapter05._05_Solution1, Chapter05._06_Solution1,
-  Chapter06._01_Solution1;
+  Chapter06._01_Solution1, AI.TreeNode, Chapter06._02_Solution1,
+  Chapter06._02_Solution2, Chapter06._02_Solution3, Chapter06._03_Solution1,
+  Chapter06._03_Solution2, Chapter06._03_Solution3, Chapter06._04_Solution1,
+  Chapter06._05_Solution1;
 
 begin
   try

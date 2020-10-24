@@ -7,7 +7,7 @@ interface
 uses
   Classes,
   SysUtils,
-  Chapter05.ListNode;
+  AI.ListNode;
 
 // 19. Remove Nth Node From End of List
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/

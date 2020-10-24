@@ -7,7 +7,7 @@ interface
 uses
   Classes,
   SysUtils,
-  Chapter05.ListNode,
+  AI.ListNode,
   DeepStar.Utils;
 
 // 203. Remove Linked List Elements
@@ -65,7 +65,7 @@ begin
       FreeAndNil(del);
     end
     else
-      cur := cur.Next
+      cur := cur.Next;
   end;
 
   Result := dummyHead.Next;

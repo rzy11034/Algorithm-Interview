@@ -7,7 +7,7 @@ interface
 uses
   Classes,
   SysUtils,
-  Chapter05.ListNode;
+  AI.ListNode;
 
 // 206. Reverse Linked List
 // https://leetcode.com/problems/reverse-linked-list/description/
@@ -37,8 +37,8 @@ begin
 
   // head->next 此刻指向 head 后面的链表的尾节点
   // head->next->next = head 把 head 节点放在了尾部
-  head.next.next := head;
-  head.next := nil;
+  head.Next.Next := head;
+  head.Next := nil;
 
   Result := ret;
 end;

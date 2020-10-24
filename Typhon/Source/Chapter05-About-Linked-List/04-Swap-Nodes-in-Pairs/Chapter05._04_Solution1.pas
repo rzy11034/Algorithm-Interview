@@ -7,8 +7,8 @@ interface
 uses
   Classes,
   SysUtils,
-  DeepStar.Utils,
-  Chapter05.ListNode;
+  AI.ListNode,
+  DeepStar.Utils;
 
 // 24. Swap Nodes in Pairs
 // https://leetcode.com/problems/swap-nodes-in-pairs/description/

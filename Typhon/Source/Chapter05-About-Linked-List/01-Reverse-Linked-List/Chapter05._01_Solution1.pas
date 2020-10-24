@@ -6,8 +6,7 @@ interface
 
 uses
   Classes,
-  SysUtils,
-  Chapter05.ListNode;
+  SysUtils, AI.ListNode;
 
 // 206. Reverse Linked List
 // https://leetcode.com/problems/reverse-linked-list/description/
@@ -25,18 +24,18 @@ implementation
 
 function TSolution.reverseList(var head: TListNode): TListNode;
 var
-  pre, cur, next: TListNode;
+  pre, cur, Next: TListNode;
 begin
-  pre:= nil;
+  pre := nil;
   cur := head;
 
   while cur <> nil do
   begin
-    next := cur.next;
+    Next := cur.Next;
 
     cur.Next := pre;
     pre := cur;
-    cur := next;
+    cur := Next;
   end;
 
   head := pre;
