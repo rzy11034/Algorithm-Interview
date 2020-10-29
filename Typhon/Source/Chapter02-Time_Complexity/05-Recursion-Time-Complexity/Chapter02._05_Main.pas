@@ -7,7 +7,7 @@ interface
 uses
   Classes,
   SysUtils,
-  AI.Utils;
+  DeepStar.Utils;
 
 procedure Main;
 
@@ -71,4 +71,3 @@ begin
 end;
 
 end.
-

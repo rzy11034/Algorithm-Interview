@@ -28,7 +28,8 @@ uses
   Chapter06._05_Solution1, Chapter06._06_Solution1, Chapter06._07_Solution1,
   Chapter07._01_Solution1, Chapter07._02_Solution1, Chapter07._03_Solution1,
   Chapter07._04_Solution1, Chapter07._05_Solution1, Chapter07._06_Solution1,
-  Chapter08._01_02_Solution1;
+  Chapter08._01_02_Solution1, Chapter08._03_Solution1, Chapter08._04_Solution1,
+  Chapter08._05_Solution1, Chapter08._06_Solution1;
 
 begin
   try

@@ -7,14 +7,10 @@ interface
 uses
   Classes,
   SysUtils,
-  Math;
+  Math,
+  DeepStar.Utils;
 
 type
-  UString = UnicodeString;
-  UChar = UnicodeChar;
-
-  TArr_int = array of integer;
-
   TUtils = class(TObject)
   public
     class function GenerateRandomArray(n, rangeL, rangeR: integer): TArr_int;

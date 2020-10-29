@@ -6,14 +6,13 @@ interface
 
 uses
   Classes,
-  SysUtils;
+  SysUtils,
+  DeepStar.UString,
+  DeepStar.Utils;
 
 procedure Main;
 
 implementation
-
-uses
-  AI.Utils;
 
 // O(1)
 procedure SwapTwoInts(var a, b: integer);

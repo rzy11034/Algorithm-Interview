@@ -8,7 +8,7 @@ uses
   Classes,
   SysUtils,
   DeepStar.Utils,
-  DeepStar.Utils.UString;
+  DeepStar.UString;
 
 type
   TListNode = class
