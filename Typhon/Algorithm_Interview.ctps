@@ -10,7 +10,7 @@
         <FRMtype Value="0"/>
         <IsPartOfProject Value="True"/>
         <TopLine Value="2"/>
-        <CursorPos X="47" Y="33"/>
+        <CursorPos X="47" Y="34"/>
         <UsageCount Value="234"/>
         <Loaded Value="True"/>
       </Unit>
@@ -248,7 +248,7 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="11" Y="12"/>
-        <UsageCount Value="199"/>
+        <UsageCount Value="203"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\01-Intersection-of-Two-Arrays\Chapter04._01_Solution1.pas"/>
@@ -256,7 +256,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="31"/>
         <CursorPos X="37" Y="45"/>
-        <UsageCount Value="196"/>
+        <UsageCount Value="200"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\02-Intersection-of-Two-Arrays-II\Chapter04._02_Solution1.pas"/>
@@ -264,7 +264,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="38"/>
         <CursorPos X="5" Y="72"/>
-        <UsageCount Value="196"/>
+        <UsageCount Value="200"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\03-More-About-Set-And-Map\Chapter04._03_Solution1.pas"/>
@@ -272,7 +272,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="55"/>
         <CursorPos X="36" Y="44"/>
-        <UsageCount Value="193"/>
+        <UsageCount Value="199"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\04-Two-Sum\Chapter04._04_Solution1.pas"/>
@@ -280,7 +280,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="13"/>
         <CursorPos X="8" Y="37"/>
-        <UsageCount Value="192"/>
+        <UsageCount Value="198"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\05-4Sum-II\Chapter04._05_Solution1.pas"/>
@@ -288,14 +288,14 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="17"/>
         <CursorPos X="65" Y="20"/>
-        <UsageCount Value="189"/>
+        <UsageCount Value="195"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\06-Number-of-Boomerangs\Chapter04._06_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="63" Y="4"/>
-        <UsageCount Value="187"/>
+        <UsageCount Value="193"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\07-Contains-Duplicate-II\Chapter04._07_Solution1.pas"/>
@@ -303,7 +303,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="59"/>
         <CursorPos X="22" Y="80"/>
-        <UsageCount Value="185"/>
+        <UsageCount Value="191"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter04-Using-Hash-Table\08-Contains-Duplicate-III\Chapter04._08_Solution1.pas"/>
@@ -311,21 +311,21 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="35"/>
         <CursorPos X="4" Y="53"/>
-        <UsageCount Value="183"/>
+        <UsageCount Value="189"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\01-Reverse-Linked-List\Chapter05._01_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="26" Y="9"/>
-        <UsageCount Value="179"/>
+        <UsageCount Value="185"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Definition\AI.ListNode.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="11" Y="11"/>
-        <UsageCount Value="179"/>
+        <UsageCount Value="185"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\01-Reverse-Linked-List\Chapter05._01_Solution2.pas"/>
@@ -333,21 +333,21 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="7"/>
         <CursorPos X="15" Y="10"/>
-        <UsageCount Value="178"/>
+        <UsageCount Value="184"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\02-Test-Your-Linked-List\Chapter05._02_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="14" Y="12"/>
-        <UsageCount Value="177"/>
+        <UsageCount Value="183"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\03-Remove-Linked-List-Elements\Chapter05._03_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="14" Y="9"/>
-        <UsageCount Value="176"/>
+        <UsageCount Value="182"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\03-Remove-Linked-List-Elements\Chapter05._03_Solution2.pas"/>
@@ -355,28 +355,28 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="34"/>
         <CursorPos X="23" Y="68"/>
-        <UsageCount Value="174"/>
+        <UsageCount Value="180"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\04-Swap-Nodes-in-Pairs\Chapter05._04_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="15" Y="10"/>
-        <UsageCount Value="169"/>
+        <UsageCount Value="175"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\05-Delete-Node-in-a-Linked-List\Chapter05._05_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="3" Y="10"/>
-        <UsageCount Value="166"/>
+        <UsageCount Value="172"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter05-About-Linked-List\06-Remove-Nth-Node-From-End-of-List\Chapter05._06_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="5" Y="10"/>
-        <UsageCount Value="161"/>
+        <UsageCount Value="167"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\01-Valid-Parentheses\Chapter06._01_Solution1.pas"/>
@@ -384,21 +384,21 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="52"/>
         <CursorPos X="28" Y="12"/>
-        <UsageCount Value="160"/>
+        <UsageCount Value="166"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Definition\AI.TreeNode.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="51" Y="60"/>
-        <UsageCount Value="143"/>
+        <UsageCount Value="149"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\02-Recursion-and-Stack\Chapter06._02_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="36" Y="3"/>
-        <UsageCount Value="139"/>
+        <UsageCount Value="145"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\02-Recursion-and-Stack\Chapter06._02_Solution2.pas"/>
@@ -406,7 +406,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="11"/>
         <CursorPos Y="28"/>
-        <UsageCount Value="139"/>
+        <UsageCount Value="145"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\02-Recursion-and-Stack\Chapter06._02_Solution3.pas"/>
@@ -414,14 +414,14 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="11"/>
         <CursorPos Y="28"/>
-        <UsageCount Value="139"/>
+        <UsageCount Value="145"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\03-Non-Recursive-Implementation\Chapter06._03_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="36" Y="16"/>
-        <UsageCount Value="133"/>
+        <UsageCount Value="139"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\03-Non-Recursive-Implementation\Chapter06._03_Solution2.pas"/>
@@ -429,7 +429,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="14"/>
         <CursorPos Y="30"/>
-        <UsageCount Value="133"/>
+        <UsageCount Value="139"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\03-Non-Recursive-Implementation\Chapter06._03_Solution3.pas"/>
@@ -437,7 +437,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="28"/>
         <CursorPos X="11" Y="21"/>
-        <UsageCount Value="133"/>
+        <UsageCount Value="139"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\04-Binary-Tree-Level-Order-Traversal\Chapter06._04_Solution1.pas"/>
@@ -445,7 +445,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="25"/>
         <CursorPos X="12" Y="57"/>
-        <UsageCount Value="116"/>
+        <UsageCount Value="122"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\05-Perfect-Squares\Chapter06._05_Solution1.pas"/>
@@ -453,7 +453,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="34"/>
         <CursorPos X="75" Y="44"/>
-        <UsageCount Value="109"/>
+        <UsageCount Value="115"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\06-Priority-Queue\Chapter06._06_Solution1.pas"/>
@@ -461,7 +461,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="10"/>
         <CursorPos Y="10"/>
-        <UsageCount Value="106"/>
+        <UsageCount Value="112"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter06-Stack-and-Queue\07-Top-K-Frequent-Elements\Chapter06._07_Solution1.pas"/>
@@ -469,7 +469,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="54"/>
         <CursorPos X="37" Y="64"/>
-        <UsageCount Value="104"/>
+        <UsageCount Value="110"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter07-Binary-Tree-and-Recursion\01-Maximum-Depth-of-Binary-Tree\Chapter07._01_Solution1.pas"/>
@@ -477,7 +477,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="10"/>
         <CursorPos X="39" Y="38"/>
-        <UsageCount Value="89"/>
+        <UsageCount Value="95"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter07-Binary-Tree-and-Recursion\02-Invert-Binary-Tree\Chapter07._02_Solution1.pas"/>
@@ -485,7 +485,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="16"/>
         <CursorPos X="58" Y="18"/>
-        <UsageCount Value="89"/>
+        <UsageCount Value="95"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter07-Binary-Tree-and-Recursion\03-Path-Sum\Chapter07._03_Solution1.pas"/>
@@ -493,7 +493,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="24"/>
         <CursorPos X="51" Y="24"/>
-        <UsageCount Value="87"/>
+        <UsageCount Value="93"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter07-Binary-Tree-and-Recursion\04-Binary-Tree-Paths\Chapter07._04_Solution1.pas"/>
@@ -501,7 +501,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="43"/>
         <CursorPos X="34" Y="77"/>
-        <UsageCount Value="81"/>
+        <UsageCount Value="87"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter07-Binary-Tree-and-Recursion\05-Path-Sum-III\Chapter07._05_Solution1.pas"/>
@@ -509,7 +509,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="24"/>
         <CursorPos X="31" Y="30"/>
-        <UsageCount Value="40"/>
+        <UsageCount Value="46"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter07-Binary-Tree-and-Recursion\06-Lowest-Common-Ancestor-of-a-Binary-Search-Tree\Chapter07._06_Solution1.pas"/>
@@ -517,13 +517,13 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
         <CursorPos X="30" Y="74"/>
-        <UsageCount Value="35"/>
+        <UsageCount Value="41"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter08-Recurion-and-Backstracking\01-02-Letter-Combinations-of-a-Phone-Number\Chapter08._01_02_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
-        <UsageCount Value="33"/>
+        <UsageCount Value="39"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Chapter08-Recurion-and-Backstracking\03-Permutations\Chapter08._03_Solution1.pas"/>
@@ -531,7 +531,40 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
         <CursorPos X="15" Y="48"/>
-        <UsageCount Value="28"/>
+        <UsageCount Value="34"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\04-Combinations\Chapter08._04_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="56"/>
+        <CursorPos X="5" Y="87"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\05-Combinations-optimized\Chapter08._05_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="63"/>
+        <CursorPos X="47" Y="71"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="30" Y="104"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="5"/>
+        <CursorPos X="23" Y="50"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\DeepStar-Lib\Typhon\Package\Source\Utils\DeepStar.Utils.pas"/>
@@ -593,7 +626,7 @@
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\unix\classes.pp"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\unix\classes.pp"/>
         <FRMtype Value="0"/>
         <UnitName Value="Classes"/>
         <EditorIndex Value="-1"/>
@@ -601,7 +634,7 @@
         <UsageCount Value="3"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="1943"/>
@@ -609,7 +642,7 @@
         <UsageCount Value="3"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\classes\classes.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\classes\classes.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="666"/>
@@ -649,7 +682,7 @@
         <UsageCount Value="10"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\osutilsh.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\osutilsh.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
@@ -657,7 +690,7 @@
         <UsageCount Value="1"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\types.pp"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\types.pp"/>
         <FRMtype Value="0"/>
         <UnitName Value="Types"/>
         <EditorIndex Value="-1"/>
@@ -665,14 +698,14 @@
         <UsageCount Value="2"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\packages\fcl-stl\src\gpriorityqueue.pp"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\packages\fcl-stl\src\gpriorityqueue.pp"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="103"/>
         <UsageCount Value="2"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\packages\rtl-generics\src\generics.defaults.pas"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\packages\rtl-generics\src\generics.defaults.pas"/>
         <FRMtype Value="0"/>
         <UnitName Value="Generics.Defaults"/>
         <EditorIndex Value="-1"/>
@@ -681,7 +714,7 @@
         <UsageCount Value="4"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\sysutilh.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\sysutilh.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="22"/>
@@ -697,14 +730,14 @@
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\unix\sysutils.pp"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\unix\sysutils.pp"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="148"/>
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelph.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelph.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="44"/>
@@ -712,7 +745,7 @@
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelp.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelp.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="139"/>
@@ -720,7 +753,7 @@
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
         <FRMtype Value="0"/>
         <UnitName Value="Generics.Collections"/>
         <EditorIndex Value="-1"/>
@@ -729,7 +762,7 @@
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="..\..\..\..\..\..\..\usr\local\codetyphon\fpcsrc\packages\rtl-generics\src\inc\generics.dictionariesh.inc"/>
+        <Filename Value="D:\usr\local\codetyphon\fpcsrc\packages\rtl-generics\src\inc\generics.dictionariesh.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="597"/>
@@ -737,29 +770,10 @@
         <UsageCount Value="9"/>
       </Unit>
       <Unit>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\04-Combinations\Chapter08._04_Solution1.pas"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\08-N-Queens\Chapter08._08_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="56"/>
-        <CursorPos X="5" Y="87"/>
-        <UsageCount Value="25"/>
-      </Unit>
-      <Unit>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\05-Combinations-optimized\Chapter08._05_Solution1.pas"/>
-        <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="63"/>
-        <CursorPos X="47" Y="71"/>
-        <UsageCount Value="24"/>
-      </Unit>
-      <Unit>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="3"/>
-        <TopLine Value="70"/>
-        <CursorPos X="55" Y="100"/>
-        <UsageCount Value="24"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
@@ -768,124 +782,124 @@
     </Build>
     <JumpHistory HistoryIndex="29">
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="75" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="76" TopLine="72"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="77" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="78" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="106" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="80" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="107" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="81" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="82" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="77" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="78" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="80" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="75" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="77" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="78" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="80" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="81" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="100" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="82" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="77" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="78" TopLine="71"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="77" TopLine="61"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="98" TopLine="83"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="99" TopLine="83"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="97" Column="44" TopLine="61"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="78" Column="27" TopLine="53"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="104" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="80" TopLine="64"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="102" TopLine="97"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="65" Column="33" TopLine="65"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="79" TopLine="67"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="67" TopLine="58"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="74" TopLine="67"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="68" TopLine="58"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="76" TopLine="67"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="93" TopLine="84"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="77" TopLine="67"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="67" TopLine="57"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="79" TopLine="67"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="68" TopLine="57"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="81" TopLine="69"/>
       </Position>
       <Position>
-        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\06-Word-Search\Chapter08._06_Solution1.pas"/>
-        <Caret Line="67" TopLine="57"/>
+        <Filename Value="Source\Chapter08-Recurion-and-Backstracking\07-Number-of-Islands\Chapter08._07_Solution1.pas"/>
+        <Caret Line="79" TopLine="69"/>
       </Position>
     </JumpHistory>
     <RunParams>
