@@ -30,7 +30,7 @@ implementation
 procedure Main;
 var
   res: TList_TList_str;
-  i: integer;
+  i, j: integer;
 begin
   with TSolution.Create do
   begin
@@ -38,8 +38,20 @@ begin
 
     for i := 0 to res.Count - 1 do
     begin
-      TArrayUtils_str.Print(res[i].ToArray);
+      WriteLn('[');
+      for j := 0 to res[i].Count - 1 do
+      begin
+        WriteLn(res[i][j]);
+      end;
+      WriteLn(']');
+
+      WriteLn;
+
+      res[i].Free;
     end;
+
+    res.Free;
+    Free;
   end;
 end;
 
@@ -75,10 +87,9 @@ var
       SetLength(cs, n);
       TArrayUtils_chr.FillArray(cs, '.');
 
-      if i = arr[i] then
-        cs[i] := 'Q';
+      cs[arr[i]] := 'Q';
 
-      res.AddLast(UString(cs));
+      res.AddLast(UString.Create(cs));
     end;
 
     Result := res;
@@ -88,7 +99,7 @@ var
   var
     i: integer;
   begin
-    if index = n - 1 then
+    if index = n then
     begin
       res.AddLast(__generateBoard__);
       Exit;

@@ -76,7 +76,7 @@ function TListNode.FindNdoe(v: integer): TListNode;
 var
   cur: TListNode;
 begin
-  if Self = nil then exit;
+  if Self = nil then exit(nil);
   if self.Val = v then Exit(self);
 
   cur := self.Next;
