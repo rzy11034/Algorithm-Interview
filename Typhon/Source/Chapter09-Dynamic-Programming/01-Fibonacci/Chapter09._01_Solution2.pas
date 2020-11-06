@@ -1,4 +1,4 @@
-unit Chapter09._01_Solution2;
+﻿unit Chapter09._01_Solution2;
 
 {$mode objfpc}{$H+}
 
@@ -60,8 +60,6 @@ var
     Result := memo[n];
   end;
 
-var
-  i: integer;
 begin
   SetLength(memo, n + 1);
   TArrayUtils_int.FillArray(memo, -1);
