@@ -32,7 +32,9 @@ uses
   Chapter08._05_Solution1, Chapter08._06_Solution1, Chapter08._07_Solution1,
   Chapter08._08_Solution1, Chapter09._01_Solution1, Chapter09._01_Solution2,
   Chapter09._01_Solution3, Chapter09._02_Solution1, Chapter09._02_Solution2,
-  Chapter09._03_Solution1, Chapter09._03_Solution2, Chapter09._03_Solution3;
+  Chapter09._03_Solution1, Chapter09._03_Solution2, Chapter09._03_Solution3,
+  Chapter09._04_Solution1, Chapter09._04_Solution2, Chapter09._05_Solution1,
+  Chapter09._05_Solution2, Chapter09._06_Solution1, Chapter09._06_Solution2;
 
 begin
   try
