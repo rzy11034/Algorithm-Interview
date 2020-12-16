@@ -11,6 +11,8 @@ uses
   DeepStar.Utils;
 
 type
+  int = integer;
+
   TUtils = class(TObject)
   public
     class function GenerateRandomArray(n, rangeL, rangeR: integer): TArr_int;
