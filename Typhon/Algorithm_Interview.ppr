@@ -38,7 +38,7 @@ uses
   Chapter09._07_Solution1, Chapter09._07_Solution2, Chapter09._08_Solution1,
   Chapter09._08_Solution2, Chapter09._09_Solution1, Chapter09._09_Solution2,
   Chapter09._09_Solution3, Chapter10._01_Solution1, Chapter10._01_Solution2,
-  Chapter10._02_Solution1;
+  Chapter10._02_Solution1, Chapter10._02_Solution2;
 
 begin
   try

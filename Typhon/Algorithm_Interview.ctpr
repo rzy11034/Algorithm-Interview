@@ -576,6 +576,10 @@ install:
         <Filename Value="Source\Chapter10-Greedy-Algorithms\02-Non-overlapping-Intervals\Chapter10._02_Solution1.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Chapter10-Greedy-Algorithms\02-Non-overlapping-Intervals\Chapter10._02_Solution2.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
